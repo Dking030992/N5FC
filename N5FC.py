@@ -3,6 +3,8 @@ from tkinter import ttk, messagebox
 import random
 import sqlite3
 
+# this is a random comment
+
 class FlashcardGame:
     def __init__(self, root):
         self.root = root
